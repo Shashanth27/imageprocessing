@@ -1,4 +1,3 @@
-THIS PAGE IS ALL ABOUT IMAGE PROSCESSING SOME VERISON MIGHT HAVE CHANGED TENSORFLOW KERAS MIHT HAVE RELASED NEW UPDATES SEE EVERYTHING ACCORDING TO THAT
-SO BE CAREFUL EVERYTHING IS DEEP LEARN PYTHON 
-SO LEARN PYTHON
-THE CODE IS ONLY FOR understanding purpose dont every try to copy nd do it i did some methods so that u cant even run it properlry withouthe necsaary things
+# Image Processing Application
+
+I'm Shashanth and this is a DevOps tool integration that is successfully running. This is a test pushing from the DevOps tool and no wonder I got it successfully!
